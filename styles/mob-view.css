@@ -12,3 +12,13 @@
       height: 300px;
     }
   }
+@media screen and (max-width: 1288px) {
+  .review {
+    flex-direction: column;
+  }
+  .review video{
+    height: 100%;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+}

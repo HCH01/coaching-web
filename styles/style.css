@@ -30,9 +30,21 @@
     width: 100%;
     object-fit: cover;
 }
-
-
-
+.certificate{
+    height: 400px;
+    width: 450px;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.review video{
+    height: 180px;
+    width: 250px;
+}
+.t-black{
+    color: black;
+}
 .zoom-animation{
     animation: zoom 2s infinite;
 }
