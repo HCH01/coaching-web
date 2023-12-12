@@ -20,6 +20,7 @@
 .box{
     width: 100%;
     font-size: 25px;
+    font-family: 'Poppins', sans-serif;
 }
 .h-100{
     height: 100px;
@@ -48,6 +49,12 @@
 .bg-black{
     background-color: #17242f;
     color: white;
+}
+.bg-gray{
+    background-color: rgb(227, 222, 222);
+}
+.bg-l-blue{
+    background-color: rgb(203, 229, 245);
 }
 .t-org{
     color: rgba(190, 0, 39, 1);
@@ -97,4 +104,28 @@
 }
 .img-500{
     height: 500px;
+}
+.f-s-17{
+    font-size: 17px;
+}
+.mtb-10{
+    margin: 10px 0;
+}
+.mt-10{
+    margin-top: 10px;
+}
+.f-w-400{
+    font-weight: 400;
+}
+.f-w-600{
+    font-weight: 600;
+}
+.pt-10{
+    padding-top: 10px;
+}
+.w-75{
+    width: 75%;
+}
+.border{
+    border: 1px solid black;
 }
