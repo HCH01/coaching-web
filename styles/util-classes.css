@@ -151,3 +151,15 @@
 .b-r{
     border: 1px solid red;
 }
+.b-gray{
+    border: 1px solid rgb(205, 203, 203);
+}
+.br-2{
+    border-radius: 2px;
+}
+.hand-cursor{
+    cursor: pointer;
+}
+.m-5{
+    margin: 5px;
+}

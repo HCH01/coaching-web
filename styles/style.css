@@ -45,6 +45,23 @@ img{
 .t-black{
     color: black;
 }
+.toggle{
+    width: 100%;
+    max-height: 0px;
+    position: relative;
+    transition: 0.3s;
+    overflow: hidden;
+    background-color: white;
+    border-radius: 0px 0px 2px 2px;
+}
+.open{
+    max-height: 100px;
+    padding: 5px;
+}
+.bg-gray{
+    background-color: rgb(243, 243, 243);
+}
+
 .zoom-animation{
     animation: zoom 2s infinite;
 }
